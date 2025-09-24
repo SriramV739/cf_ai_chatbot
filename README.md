@@ -1,4 +1,6 @@
-# Cloudflare AI Chatbot Worker
+# README.md
+
+> **Note:** This file was originally written on a google doc. I used ChatGPT to format this README.md in a nice way. 
 
 ## Overview
 
