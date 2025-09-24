@@ -1,7 +1,3 @@
-# README.md
-
-> **Note:** This file was originally written on a google doc. I used ChatGPT to format this README.md in a nice way. 
-
 ## Overview
 
 This project implements a minimal AI-powered chatbot using Cloudflare Workers and Workers AI (Llama 3.3). It supports conversational memory via Durable Objects and a simple web UI with Markdown rendering and voice input.
