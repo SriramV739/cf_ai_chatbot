@@ -1,6 +1,6 @@
 # List of AI prompts used
 
-> **Note:** This file was originally written on a google doc. I used ChatGPT to format this prompts.md in a nice way. 
+> **Note:** This file was originally written on a google doc. I used ChatGPT to format this PROMPTS.md in a nice way. 
 
 
 
