@@ -5,9 +5,9 @@
 
 
 ## Prompt 1:
-I need to make an AI powered chatbot hosted on Cloudflare. I have the base framework included already. Specifically, I have a file called `wrangler.toml` that has information about the Cloudflare configuration.
+I need to make an AI powered chatbot hosted on Cloudflare. I have the base framework included already. Specifically, I have a file called wrangler.toml that has information about the Cloudflare configuration.
 
-It is to run off of a file called `index.ts` that you will write.
+It is to run off of a file called index.ts that you will write.
 
 This file should:
 
